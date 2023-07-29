@@ -1,6 +1,6 @@
 - Hi, I’m Rabeya Bashri
 - I am interested in  python, Node js,React JS, AngularJS
-- I’m currently learning Angular 14, TypeScript-based web application framework
+- I’m currently learning ReactJS
 - How to reach me rbashrirabu@gmail.com
 
 <!---
