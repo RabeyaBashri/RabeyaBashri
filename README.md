@@ -1,6 +1,6 @@
 - Hi, I’m Rabeya Bashri
-- I am interested in  python, Node js,React JS, AngularJS
-- I’m currently learning ReactJS
+- I am interested in  python, Node js,AngularJS, AWS
+- I’m currently learning Vue 
 - How to reach me rbashrirabu@gmail.com
 
 <!---
