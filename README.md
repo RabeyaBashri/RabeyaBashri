@@ -29,15 +29,9 @@ A CLI-based finance manager with:
 - **Layered architecture** (BO, BL, DL)  
 - **Matplotlib charts** for spending insights  
 
-### 🧠 Neuroscience + Python Projects (coming soon)
-- Brainwave data visualization  
-- Simple neural simulation in Python  
-- AI-powered BCI exploration  
-
 ---
 
-## 🚀 Current Roadmap
-- 🏗️ Build more **portfolio-ready Python projects**  
+## 🚀 Current Roadmap  
 - 🧪 Explore **neurotech research + AI**  
 - ✍️ Write about my learning journey in **Python & Neuroscience**  
  ---
