@@ -8,7 +8,6 @@
 ## 🌟 About Me  
 - 🎓 Background in **Computer Science and Engineering (CSE)**  
 - 📚 Passionate about **neuroscience research** & computational models of the brain  
-- 💡 Learning Python deeply — completed **Think Python**, **O’Reilly Python**, and **Fluent Python** (ongoing) 
 - 🛠️ Building real-world projects in **Python, Data Analysis, and Visualization**  
  
 ---
