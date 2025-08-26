@@ -41,6 +41,7 @@ A CLI-based finance manager with:
 - ✉️ How to reach me  rbashrirabu@gmail.com  
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=rbashri&color=blue)
 
 ⭐️ *“Code + Curiosity + Consistency = Growth”* ⭐️  
 
