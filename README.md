@@ -21,15 +21,6 @@
 
 ---
 
-## 📂 Featured Projects
-### 💰 [Personal Finance Tracker](https://github.com/RabeyaBashri/finance-tracker-cli)
-A CLI-based finance manager with:
-- **CSV/JSON persistence**  
-- **Layered architecture** (BO, BL, DL)  
-- **Matplotlib charts** for spending insights  
-
----
-
 ## 🚀 Current Roadmap  
 - 🧪 Explore **neurotech research + AI**  
 - ✍️ Write about my learning journey in **Python & Neuroscience**  
