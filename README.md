@@ -38,7 +38,7 @@
 
 ## 📊 My GitHub Stats
 
-![Rabeya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RabeyaBashri&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RabeyaBashri&show_icons=true&theme=radical)
 
 ## ⭐ Total Stars Earned
 ![Stars](https://img.shields.io/github/stars/RabeyaBashri?style=social)
