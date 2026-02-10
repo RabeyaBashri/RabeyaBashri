@@ -1,9 +1,5 @@
 👋 Hi, I’m Rabeya Bashri
 
-I am a research-oriented AI practitioner with a background in computer science and software engineering, working at the intersection of cognitive artificial intelligence, ethics-by-design, and responsible AI system architectures.
-
-My work explores how governance, accountability, trust, and human cognitive constraints can be embedded directly into AI systems as architectural primitives, rather than being applied as post-hoc controls.
-
 🧠 Research & Technical Interests
 
 Cognitive and human-centered AI architectures
@@ -19,26 +15,6 @@ Explainability versus genuine human understanding
 Moral responsibility and delegation in AI-assisted decisions
 
 Neuro-rights, mental privacy, and cognitive autonomy
-
-🎓 Academic Direction
-
-Preparing for research-based MSc programs
-
-Long-term interest in doctoral research in cognitive and responsible AI
-
-Seeking interdisciplinary academic environments bridging AI, cognitive science, ethics, and governance
-
-🤝 Collaboration 
-
-I am open to:
-
-Academic research collaboration
-
-MSc thesis and preparatory research projects
-
-Interdisciplinary work connecting technical AI with ethical and cognitive inquiry
-
-## 📫 Connect With Me
 
 - ✉️ How to reach me  rbashrirabu@gmail.com 
 - 🌐 [GitHub](https://github.com/RabeyaBashri)  
