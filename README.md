@@ -1,36 +1,70 @@
-# 👋 Hi, I'm Rabeya Bashri  
+👋 Hi, I’m Rabeya Bashri
 
-💻 **Senior Full Stack Software Engineer | Aspiring Software Architect | Neuroscience Enthusiast**  
-🚀 Currently exploring the intersection of **Python, Data Science, and Brain-Computer Interfaces (BCI)**.  
+I am a research-oriented AI practitioner with a background in computer science and software engineering, working at the intersection of cognitive artificial intelligence, ethics-by-design, and responsible AI system architectures.
 
----
+My work explores how governance, accountability, trust, and human cognitive constraints can be embedded directly into AI systems as architectural primitives, rather than being applied as post-hoc controls.
 
-## 🌟 About Me  
-- 🎓 Background in **Computer Science and Engineering (CSE)**  
-- 📚 Passionate about **neuroscience research** & computational models of the brain  
-- 🛠️ Building real-world projects in **Python, Data Analysis, and Visualization**  
- 
----
+🧠 Research & Technical Interests
 
-## 🛠️ Tech Stack
-**Interests**  
-- Artificial Intelligence & Machine Learning 🤖  
-- Brain-Computer Interfaces (BCI) 🧠  
-- Data Visualization & Storytelling 📈  
-- Software Architecture Patterns 🏗️  
+Cognitive and human-centered AI architectures
 
----
+Ethics-gated machine learning pipelines
 
-## 🚀 Current Roadmap  
-- 🧪 Explore **neurotech research + AI**  
-- ✍️ Write about my learning journey in **Python & Neuroscience**  
- ---
+Automation bias detection and mitigation
+
+Trust calibration in human–AI systems
+
+Explainability versus genuine human understanding
+
+Moral responsibility and delegation in AI-assisted decisions
+
+Neuro-rights, mental privacy, and cognitive autonomy
+
+🔬 Current Research Work
+Cogent AI
+
+Ethics-Gated Cognitive Artificial Intelligence Architecture
+
+Cogent AI is a modular research prototype that investigates how AI systems can be designed to:
+
+Admit only ethically governed and traceable data
+
+Actively detect and mitigate automation bias
+
+Calibrate trust rather than maximize persuasion
+
+Respect human cognitive load and decision capacity
+
+Preserve moral responsibility and accountability
+
+Safeguard mental privacy and emerging neuro-rights
+
+The project is intended as an academic research framework, not a production system, and serves as a platform for studying responsible AI architectures across the full system lifecycle.
+
+🎓 Academic Direction
+
+Preparing for research-based MSc programs
+
+Long-term interest in doctoral research in cognitive and responsible AI
+
+Seeking interdisciplinary academic environments bridging AI, cognitive science, ethics, and governance
+
+🤝 Collaboration 
+
+I am open to:
+
+Academic research collaboration
+
+MSc thesis and preparatory research projects
+
+Interdisciplinary work connecting technical AI with ethical and cognitive inquiry
 
 ## 📫 Connect With Me
+
+- ✉️ How to reach me  rbashrirabu@gmail.com 
 - 🌐 [GitHub](https://github.com/RabeyaBashri)  
 - 💼 [(LinkedIn link here if you want)](https://www.linkedin.com/in/rabeyabashri/)  
-- ✉️ How to reach me  rbashrirabu@gmail.com  
-
+ 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=rbashri&color=blue)
 
