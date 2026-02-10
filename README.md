@@ -1,21 +1,5 @@
 👋 Hi, I’m Rabeya Bashri
 
-🧠 Research & Technical Interests
-
-Cognitive and human-centered AI architectures
-
-Ethics-gated machine learning pipelines
-
-Automation bias detection and mitigation
-
-Trust calibration in human–AI systems
-
-Explainability versus genuine human understanding
-
-Moral responsibility and delegation in AI-assisted decisions
-
-Neuro-rights, mental privacy, and cognitive autonomy
-
 - ✉️ How to reach me  rbashrirabu@gmail.com 
 - 🌐 [GitHub](https://github.com/RabeyaBashri)  
 - 💼 [(LinkedIn link here if you want)](https://www.linkedin.com/in/rabeyabashri/)  
