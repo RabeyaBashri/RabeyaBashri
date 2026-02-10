@@ -20,27 +20,6 @@ Moral responsibility and delegation in AI-assisted decisions
 
 Neuro-rights, mental privacy, and cognitive autonomy
 
-🔬 Current Research Work
-Cogent AI
-
-Ethics-Gated Cognitive Artificial Intelligence Architecture
-
-Cogent AI is a modular research prototype that investigates how AI systems can be designed to:
-
-Admit only ethically governed and traceable data
-
-Actively detect and mitigate automation bias
-
-Calibrate trust rather than maximize persuasion
-
-Respect human cognitive load and decision capacity
-
-Preserve moral responsibility and accountability
-
-Safeguard mental privacy and emerging neuro-rights
-
-The project is intended as an academic research framework, not a production system, and serves as a platform for studying responsible AI architectures across the full system lifecycle.
-
 🎓 Academic Direction
 
 Preparing for research-based MSc programs
